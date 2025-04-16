@@ -1,0 +1,93 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emagrecimento Saudável</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background: #fff;
+    }
+    h1, h2 {
+      color: #27ae60;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #27ae60;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 5px;
+      margin-top: 20px;
+    }
+    .testimonial {
+      background: #e8f5e9;
+      padding: 15px;
+      margin: 15px 0;
+      border-left: 5px solid #2ecc71;
+    }
+    .image-banner, .image-before-after {
+      width: 100%;
+      border-radius: 10px;
+      margin: 20px 0;
+    }
+    @media (max-width: 600px) {
+      .cta-button {
+        width: 100%;
+        text-align: center;
+        padding: 15px;
+        font-size: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://images.unsplash.com/photo-1588776814546-d045be15b46e?fit=crop&w=1000&q=80" alt="Mulher saudável sorrindo" class="image-banner"><h1>Emagreça de Forma Saudável e Definitiva Sem Passar Fome ou Ir à Academia!</h1>
+
+<p>Você está cansada de dietas restritivas que não funcionam? Sente que a balança nunca colabora e que falta apoio verdadeiro na sua jornada?
+</p>
+
+<h2>Apresentamos o Método <strong>Emagrecimento Saudável</strong></h2>
+<p>Um programa 100% online, criado especialmente para mulheres entre 25 e 30 anos que querem emagrecer com saúde, sem precisar pisar na academia.</p>
+
+<h2>O que você vai encontrar:</h2>
+<ul>
+  <li>Plano alimentar equilibrado com comida de verdade</li>
+  <li>Suporte personalizado com especialistas</li>
+  <li>Dicas práticas para vencer a ansiedade e a compulsão</li>
+  <li>Vídeos extras com orientações exclusivas</li>
+</ul>
+
+<img src="https://images.unsplash.com/photo-1615484477637-ec578fa5bb59?fit=crop&w=1000&q=80" alt="Antes e depois emagrecimento" class="image-before-after">
+
+<h2>Depoimentos Reais:</h2>
+<div class="testimonial">
+  <p><em>"Perdi 7kg em 2 meses e nunca me senti tão bem! O suporte fez toda a diferença."</em> – Mariana, SP</p>
+</div>
+<div class="testimonial">
+  <p><em>"É incrível como pequenas mudanças fizeram tanto impacto. Recomendo de olhos fechados."</em> – Bianca, RJ</p>
+</div>
+
+<h2>Bônus Exclusivo:</h2>
+<p>Ao se inscrever hoje, você ainda leva <strong>vídeos extras exclusivos</strong> para acelerar seus resultados!</p>
+
+<h2>Garantia de 7 Dias</h2>
+<p>Se em até 7 dias você não estiver satisfeita, devolvemos 100% do seu investimento. Sem burocracia!</p>
+
+<a href="https://pay.hotmart.com/N99239206M" class="cta-button">QUERO COMEÇAR AGORA</a>
+
+  </div>
+</body>
+</html>
